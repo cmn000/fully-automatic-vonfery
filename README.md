@@ -77,3 +77,7 @@ This project is built with [Vuetify](https://vuetifyjs.com/en/), a UI Library wi
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2016-present Vuetify, LLC
+=======
+# fully-automatic-vonfery
+This open-source project, Fully Automated Vonfery, was designed and developed to address the various shortcomings of traditional Vonfery. It includes the code for our RDKX5 board's visual recognition of mouse paw prints and the front-end UI interface code.
+>>>>>>> 4fb3df5c4cb0883fc020ac0e61d4fa013b9921a8
