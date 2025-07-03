@@ -1,0 +1,582 @@
+[
+    {
+        "frame_index": 0,
+        "timestamp": 1749949337.018962
+    },
+    {
+        "frame_index": 1,
+        "timestamp": 1749949337.0413518
+    },
+    {
+        "frame_index": 2,
+        "timestamp": 1749949337.0615754
+    },
+    {
+        "frame_index": 3,
+        "timestamp": 1749949337.0800383
+    },
+    {
+        "frame_index": 4,
+        "timestamp": 1749949337.099593
+    },
+    {
+        "frame_index": 5,
+        "timestamp": 1749949337.1178553
+    },
+    {
+        "frame_index": 6,
+        "timestamp": 1749949337.1371348
+    },
+    {
+        "frame_index": 7,
+        "timestamp": 1749949337.1575756
+    },
+    {
+        "frame_index": 8,
+        "timestamp": 1749949337.1765752
+    },
+    {
+        "frame_index": 9,
+        "timestamp": 1749949337.1957252
+    },
+    {
+        "frame_index": 10,
+        "timestamp": 1749949337.2146904
+    },
+    {
+        "frame_index": 11,
+        "timestamp": 1749949337.234179
+    },
+    {
+        "frame_index": 12,
+        "timestamp": 1749949337.253723
+    },
+    {
+        "frame_index": 13,
+        "timestamp": 1749949337.2732136
+    },
+    {
+        "frame_index": 14,
+        "timestamp": 1749949337.2922304
+    },
+    {
+        "frame_index": 15,
+        "timestamp": 1749949337.3115754
+    },
+    {
+        "frame_index": 16,
+        "timestamp": 1749949337.3305008
+    },
+    {
+        "frame_index": 17,
+        "timestamp": 1749949337.3504388
+    },
+    {
+        "frame_index": 18,
+        "timestamp": 1749949337.3696318
+    },
+    {
+        "frame_index": 19,
+        "timestamp": 1749949337.3888862
+    },
+    {
+        "frame_index": 20,
+        "timestamp": 1749949337.410493
+    },
+    {
+        "frame_index": 21,
+        "timestamp": 1749949337.4307356
+    },
+    {
+        "frame_index": 22,
+        "timestamp": 1749949337.4515944
+    },
+    {
+        "frame_index": 23,
+        "timestamp": 1749949337.4696455
+    },
+    {
+        "frame_index": 24,
+        "timestamp": 1749949337.4853966
+    },
+    {
+        "frame_index": 25,
+        "timestamp": 1749949337.5044978
+    },
+    {
+        "frame_index": 26,
+        "timestamp": 1749949337.5237336
+    },
+    {
+        "frame_index": 27,
+        "timestamp": 1749949337.5434556
+    },
+    {
+        "frame_index": 28,
+        "timestamp": 1749949337.5627303
+    },
+    {
+        "frame_index": 29,
+        "timestamp": 1749949337.5818796
+    },
+    {
+        "frame_index": 30,
+        "timestamp": 1749949337.6009734
+    },
+    {
+        "frame_index": 31,
+        "timestamp": 1749949337.620908
+    },
+    {
+        "frame_index": 32,
+        "timestamp": 1749949337.6395185
+    },
+    {
+        "frame_index": 33,
+        "timestamp": 1749949337.6594548
+    },
+    {
+        "frame_index": 34,
+        "timestamp": 1749949337.6785536
+    },
+    {
+        "frame_index": 35,
+        "timestamp": 1749949337.6976357
+    },
+    {
+        "frame_index": 36,
+        "timestamp": 1749949337.721473
+    },
+    {
+        "frame_index": 37,
+        "timestamp": 1749949337.737116
+    },
+    {
+        "frame_index": 38,
+        "timestamp": 1749949337.7562208
+    },
+    {
+        "frame_index": 39,
+        "timestamp": 1749949337.7760756
+    },
+    {
+        "frame_index": 40,
+        "timestamp": 1749949337.7945387
+    },
+    {
+        "frame_index": 41,
+        "timestamp": 1749949337.8139129
+    },
+    {
+        "frame_index": 42,
+        "timestamp": 1749949337.833287
+    },
+    {
+        "frame_index": 43,
+        "timestamp": 1749949337.853112
+    },
+    {
+        "frame_index": 44,
+        "timestamp": 1749949337.8724468
+    },
+    {
+        "frame_index": 45,
+        "timestamp": 1749949337.8921719
+    },
+    {
+        "frame_index": 46,
+        "timestamp": 1749949337.9117794
+    },
+    {
+        "frame_index": 47,
+        "timestamp": 1749949337.9312556
+    },
+    {
+        "frame_index": 48,
+        "timestamp": 1749949337.9509084
+    },
+    {
+        "frame_index": 49,
+        "timestamp": 1749949337.971192
+    },
+    {
+        "frame_index": 50,
+        "timestamp": 1749949337.9896169
+    },
+    {
+        "frame_index": 51,
+        "timestamp": 1749949338.0085921
+    },
+    {
+        "frame_index": 52,
+        "timestamp": 1749949338.0288515
+    },
+    {
+        "frame_index": 53,
+        "timestamp": 1749949338.0472171
+    },
+    {
+        "frame_index": 54,
+        "timestamp": 1749949338.06686
+    },
+    {
+        "frame_index": 55,
+        "timestamp": 1749949338.0876777
+    },
+    {
+        "frame_index": 56,
+        "timestamp": 1749949338.106811
+    },
+    {
+        "frame_index": 57,
+        "timestamp": 1749949338.126474
+    },
+    {
+        "frame_index": 58,
+        "timestamp": 1749949338.1435144
+    },
+    {
+        "frame_index": 59,
+        "timestamp": 1749949338.1636612
+    },
+    {
+        "frame_index": 60,
+        "timestamp": 1749949338.1825259
+    },
+    {
+        "frame_index": 61,
+        "timestamp": 1749949338.2032619
+    },
+    {
+        "frame_index": 62,
+        "timestamp": 1749949338.2223654
+    },
+    {
+        "frame_index": 63,
+        "timestamp": 1749949338.2412395
+    },
+    {
+        "frame_index": 64,
+        "timestamp": 1749949338.2600079
+    },
+    {
+        "frame_index": 65,
+        "timestamp": 1749949338.279608
+    },
+    {
+        "frame_index": 66,
+        "timestamp": 1749949338.2978766
+    },
+    {
+        "frame_index": 67,
+        "timestamp": 1749949338.317176
+    },
+    {
+        "frame_index": 68,
+        "timestamp": 1749949338.3364697
+    },
+    {
+        "frame_index": 69,
+        "timestamp": 1749949338.3564606
+    },
+    {
+        "frame_index": 70,
+        "timestamp": 1749949338.3753138
+    },
+    {
+        "frame_index": 71,
+        "timestamp": 1749949338.3948867
+    },
+    {
+        "frame_index": 72,
+        "timestamp": 1749949338.4145238
+    },
+    {
+        "frame_index": 73,
+        "timestamp": 1749949338.4341273
+    },
+    {
+        "frame_index": 74,
+        "timestamp": 1749949338.453308
+    },
+    {
+        "frame_index": 75,
+        "timestamp": 1749949338.47241
+    },
+    {
+        "frame_index": 76,
+        "timestamp": 1749949338.4927073
+    },
+    {
+        "frame_index": 77,
+        "timestamp": 1749949338.511134
+    },
+    {
+        "frame_index": 78,
+        "timestamp": 1749949338.532129
+    },
+    {
+        "frame_index": 79,
+        "timestamp": 1749949338.54992
+    },
+    {
+        "frame_index": 80,
+        "timestamp": 1749949338.5695224
+    },
+    {
+        "frame_index": 81,
+        "timestamp": 1749949338.5882714
+    },
+    {
+        "frame_index": 82,
+        "timestamp": 1749949338.6107035
+    },
+    {
+        "frame_index": 83,
+        "timestamp": 1749949338.6296282
+    },
+    {
+        "frame_index": 84,
+        "timestamp": 1749949338.6479075
+    },
+    {
+        "frame_index": 85,
+        "timestamp": 1749949338.6676936
+    },
+    {
+        "frame_index": 86,
+        "timestamp": 1749949338.6864936
+    },
+    {
+        "frame_index": 87,
+        "timestamp": 1749949338.7061822
+    },
+    {
+        "frame_index": 88,
+        "timestamp": 1749949338.7249384
+    },
+    {
+        "frame_index": 89,
+        "timestamp": 1749949338.7442784
+    },
+    {
+        "frame_index": 90,
+        "timestamp": 1749949338.7640898
+    },
+    {
+        "frame_index": 91,
+        "timestamp": 1749949338.7838314
+    },
+    {
+        "frame_index": 92,
+        "timestamp": 1749949338.802704
+    },
+    {
+        "frame_index": 93,
+        "timestamp": 1749949338.8220987
+    },
+    {
+        "frame_index": 94,
+        "timestamp": 1749949338.8410006
+    },
+    {
+        "frame_index": 95,
+        "timestamp": 1749949338.8609135
+    },
+    {
+        "frame_index": 96,
+        "timestamp": 1749949338.8792346
+    },
+    {
+        "frame_index": 97,
+        "timestamp": 1749949338.8994334
+    },
+    {
+        "frame_index": 98,
+        "timestamp": 1749949338.9182823
+    },
+    {
+        "frame_index": 99,
+        "timestamp": 1749949338.9384735
+    },
+    {
+        "frame_index": 100,
+        "timestamp": 1749949338.9574618
+    },
+    {
+        "frame_index": 101,
+        "timestamp": 1749949338.9772656
+    },
+    {
+        "frame_index": 102,
+        "timestamp": 1749949338.9965627
+    },
+    {
+        "frame_index": 103,
+        "timestamp": 1749949339.0161147
+    },
+    {
+        "frame_index": 104,
+        "timestamp": 1749949339.03497
+    },
+    {
+        "frame_index": 105,
+        "timestamp": 1749949339.0542655
+    },
+    {
+        "frame_index": 106,
+        "timestamp": 1749949339.0733073
+    },
+    {
+        "frame_index": 107,
+        "timestamp": 1749949339.09284
+    },
+    {
+        "frame_index": 108,
+        "timestamp": 1749949339.1121957
+    },
+    {
+        "frame_index": 109,
+        "timestamp": 1749949339.132193
+    },
+    {
+        "frame_index": 110,
+        "timestamp": 1749949339.1504862
+    },
+    {
+        "frame_index": 111,
+        "timestamp": 1749949339.1703763
+    },
+    {
+        "frame_index": 112,
+        "timestamp": 1749949339.1893075
+    },
+    {
+        "frame_index": 113,
+        "timestamp": 1749949339.20978
+    },
+    {
+        "frame_index": 114,
+        "timestamp": 1749949339.227807
+    },
+    {
+        "frame_index": 115,
+        "timestamp": 1749949339.247252
+    },
+    {
+        "frame_index": 116,
+        "timestamp": 1749949339.2680256
+    },
+    {
+        "frame_index": 117,
+        "timestamp": 1749949339.2869685
+    },
+    {
+        "frame_index": 118,
+        "timestamp": 1749949339.3093872
+    },
+    {
+        "frame_index": 119,
+        "timestamp": 1749949339.3260663
+    },
+    {
+        "frame_index": 120,
+        "timestamp": 1749949339.345696
+    },
+    {
+        "frame_index": 121,
+        "timestamp": 1749949339.3640347
+    },
+    {
+        "frame_index": 122,
+        "timestamp": 1749949339.3820992
+    },
+    {
+        "frame_index": 123,
+        "timestamp": 1749949339.4010973
+    },
+    {
+        "frame_index": 124,
+        "timestamp": 1749949339.422582
+    },
+    {
+        "frame_index": 125,
+        "timestamp": 1749949339.4440484
+    },
+    {
+        "frame_index": 126,
+        "timestamp": 1749949339.4595
+    },
+    {
+        "frame_index": 127,
+        "timestamp": 1749949339.4798448
+    },
+    {
+        "frame_index": 128,
+        "timestamp": 1749949339.4994004
+    },
+    {
+        "frame_index": 129,
+        "timestamp": 1749949339.518507
+    },
+    {
+        "frame_index": 130,
+        "timestamp": 1749949339.538394
+    },
+    {
+        "frame_index": 131,
+        "timestamp": 1749949339.5570679
+    },
+    {
+        "frame_index": 132,
+        "timestamp": 1749949339.5766275
+    },
+    {
+        "frame_index": 133,
+        "timestamp": 1749949339.5961995
+    },
+    {
+        "frame_index": 134,
+        "timestamp": 1749949339.6153216
+    },
+    {
+        "frame_index": 135,
+        "timestamp": 1749949339.6343958
+    },
+    {
+        "frame_index": 136,
+        "timestamp": 1749949339.6538067
+    },
+    {
+        "frame_index": 137,
+        "timestamp": 1749949339.6734893
+    },
+    {
+        "frame_index": 138,
+        "timestamp": 1749949339.692368
+    },
+    {
+        "frame_index": 139,
+        "timestamp": 1749949339.7116
+    },
+    {
+        "frame_index": 140,
+        "timestamp": 1749949339.730853
+    },
+    {
+        "frame_index": 141,
+        "timestamp": 1749949339.7508566
+    },
+    {
+        "frame_index": 142,
+        "timestamp": 1749949339.7728686
+    },
+    {
+        "frame_index": 143,
+        "timestamp": 1749949339.7894883
+    },
+    {
+        "frame_index": 144,
+        "timestamp": 1749949339.8090172
+    }
+]
