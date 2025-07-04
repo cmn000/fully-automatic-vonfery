@@ -1,83 +1,25 @@
-# Vuetify (Default)
+# Smart Embodied Pain Assessment System: AI-Powered Precision Pain Research
 
-This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
+## Project Overview
 
-## ❗️ Important Links
+Pain, recognized as the "fifth vital sign" in clinical practice, demands objective and quantitative assessment for the development of novel analgesics and the study of pain pathway mechanisms. Traditional von Frey pain tests, relying on manual probing and visual judgment, suffer from high variability and low efficiency.
 
-- 📄 [Docs](https://vuetifyjs.com/)
-- 🚨 [Issues](https://issues.vuetifyjs.com/)
-- 🏬 [Store](https://store.vuetifyjs.com/)
-- 🎮 [Playground](https://play.vuetifyjs.com/)
-- 💬 [Discord](https://community.vuetifyjs.com)
+This project aims to revolutionize pain assessment by introducing a **Smart Embodied Pain Assessment System**. Empowered by cutting-edge edge AI, this system enables precise, efficient, and objective measurement of paw withdrawal thresholds in mice, offering a high-throughput and highly objective new paradigm for analgesic drug discovery and pain mechanism research.
 
-## 💿 Install
+## Core Technologies and Innovations
 
-Set up your project using your preferred package manager. Use the corresponding command to install the dependencies:
+This system integrates robotics, high-definition vision, multi-modal physiological signal acquisition, and edge AI inference to form a complete perceive-decide-act intelligent closed-loop:
 
-| Package Manager                                                | Command        |
-|---------------------------------------------------------------|----------------|
-| [yarn](https://yarnpkg.com/getting-started)                   | `yarn install` |
-| [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)     | `npm install`  |
-| [pnpm](https://pnpm.io/installation)                          | `pnpm install` |
-| [bun](https://bun.sh/#getting-started)                        | `bun install`  |
+* **±0.1 mm Precise Stimulation:** A **three-degree-of-freedom robotic arm** combined with **120 fps high-definition vision** achieves ultra-precise (±0.1 mm) stimulation of the mouse paw, significantly enhancing measurement repeatability and accuracy.
+* **Multi-Modal Physiological Signal Acquisition:** The system fuses **infrared vision** and **millimeter-wave radar** for multi-modal sensing, synchronously collecting physiological data from mice to provide comprehensive objective evidence of pain responses.
+* **Edge AI Empowerment:** An integrated **Transformer-Fusion model** performs local inference with ultra-low latency of **less than 15 milliseconds**, enabling real-time, efficient perception and closed-loop control of stimulation strategies.
+* **Intelligent Closed-Loop & High-Throughput:** The entire system operates without human intervention, forming a fully autonomous perceive-decide-act intelligent closed-loop. Compared to traditional methods, the system boosts sample testing speed by **10 times** and reduces data variability by **40%**, significantly improving research efficiency and data quality.
 
-After completing the installation, your environment is ready for Vuetify development.
+---
 
-## ✨ Features
+## Repository Contents
 
-- 🖼️ **Optimized Front-End Stack**: Leverage the latest Vue 3 and Vuetify 3 for a modern, reactive UI development experience. [Vue 3](https://v3.vuejs.org/) | [Vuetify 3](https://vuetifyjs.com/en/)
-- 🗃️ **State Management**: Integrated with [Pinia](https://pinia.vuejs.org/), the intuitive, modular state management solution for Vue.
-- 🚦 **Routing and Layouts**: Utilizes Vue Router for SPA navigation and vite-plugin-vue-layouts for organizing Vue file layouts. [Vue Router](https://router.vuejs.org/) | [vite-plugin-vue-layouts](https://github.com/JohnCampionJr/vite-plugin-vue-layouts)
-- ⚡ **Next-Gen Tooling**: Powered by Vite, experience fast cold starts and instant HMR (Hot Module Replacement). [Vite](https://vitejs.dev/)
-- 🧩 **Automated Component Importing**: Streamline your workflow with unplugin-vue-components, automatically importing components as you use them. [unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
+This repository primarily contains the following code and resources:
 
-These features are curated to provide a seamless development experience from setup to deployment, ensuring that your Vuetify application is both powerful and maintainable.
-
-## 💡 Usage
-
-This section covers how to start the development server and build your project for production.
-
-### Starting the Development Server
-
-To start the development server with hot-reload, run the following command. The server will be accessible at [http://localhost:3000](http://localhost:3000):
-
-```bash
-yarn dev
-```
-
-(Repeat for npm, pnpm, and bun with respective commands.)
-
-> Add NODE_OPTIONS='--no-warnings' to suppress the JSON import warnings that happen as part of the Vuetify import mapping. If you are on Node [v21.3.0](https://nodejs.org/en/blog/release/v21.3.0) or higher, you can change this to NODE_OPTIONS='--disable-warning=5401'. If you don't mind the warning, you can remove this from your package.json dev script.
-
-### Building for Production
-
-To build your project for production, use:
-
-```bash
-yarn build
-```
-
-(Repeat for npm, pnpm, and bun with respective commands.)
-
-Once the build process is completed, your application will be ready for deployment in a production environment.
-
-## 💪 Support Vuetify Development
-
-This project is built with [Vuetify](https://vuetifyjs.com/en/), a UI Library with a comprehensive collection of Vue components. Vuetify is an MIT licensed Open Source project that has been made possible due to the generous contributions by our [sponsors and backers](https://vuetifyjs.com/introduction/sponsors-and-backers/). If you are interested in supporting this project, please consider:
-
-- [Requesting Enterprise Support](https://support.vuetifyjs.com/)
-- [Sponsoring John on Github](https://github.com/users/johnleider/sponsorship)
-- [Sponsoring Kael on Github](https://github.com/users/kaelwd/sponsorship)
-- [Supporting the team on Open Collective](https://opencollective.com/vuetify)
-- [Becoming a sponsor on Patreon](https://www.patreon.com/vuetify)
-- [Becoming a subscriber on Tidelift](https://tidelift.com/subscription/npm/vuetify)
-- [Making a one-time donation with Paypal](https://paypal.me/vuetify)
-
-## 📑 License
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2016-present Vuetify, LLC
-=======
-# fully-automatic-vonfery
-This open-source project, Fully Automated Vonfery, was designed and developed to address the various shortcomings of traditional Vonfery. It includes the code for our RDKX5 board's visual recognition of mouse paw prints and the front-end UI interface code.
->>>>>>> 4fb3df5c4cb0883fc020ac0e61d4fa013b9921a8
+* **Frontend UI Code:** Code for the graphical user interface used for user interaction and system control.
+* **Saved Data Examples:** Sample data collected and processed by the system, facilitating understanding of data structure and
